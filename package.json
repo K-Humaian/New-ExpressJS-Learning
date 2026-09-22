@@ -1,0 +1,17 @@
+{
+  "name": "new_express-app",
+  "version": "1.0.0",
+  "description": "academic",
+  "license": "ISC",
+  "author": "Humaian",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "express": "^5.2.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
